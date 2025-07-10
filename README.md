@@ -66,34 +66,33 @@
 
 <table width="100%">
   <tr>
-    <!-- Columna 1: Estadísticas -->
     <td width="50%" valign="top" style="padding-right: 20px;">
       <h2 align="left">📊 Mis Estadísticas</h2>
-      <div align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=DaniellaPR&show_icons=true&theme=ayu-mirage&title_color=ffb6c1&icon_color=fdd835&text_color=80deea&bg_color=0d1117" alt="GitHub Stats" />
-      </div>
-      <br/>
-      <div align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaPR&layout=compact&theme=ayu-mirage&title_color=ffb6c1&text_color=80deea&bg_color=0d1117" alt="Top Languages" />
-      </div>
+      <img src="https://github-readme-stats.vercel.app/api?username=DaniellaPR&show_icons=true&theme=ayu-mirage&title_color=ffb6c1&icon_color=fdd835&text_color=80deea&bg_color=0d1117" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td width="50%" valign="top" style="padding-left: 20px;">
+      <h2 align="left">🏆 Lenguaje más usado</h2>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaPR&layout=compact&theme=ayu-mirage&title_color=ffb6c1&text_color=80deea&bg_color=0d1117" alt="Top Languages" width="100%"/>
     </td>
   </tr>
-  
+</table>
+
+<table width="100%">
   <!-- Fila con repositorios -->
   <tr>
     <td colspan="2" style="padding-top: 30px;">
-      <div align="center">
+      <div align="left">
         <h2>🔗 Proyectos destacados</h2>
         <table>
           <tr>
-            <td align="center" style="padding: 10px;">
+            <td align="left" style="padding: 10px;">
               <a href="https://github.com/DaniellaPR/ProyectoP3" target="_blank">
                 <img src="https://opengraph.githubassets.com/1/DaniellaPR/ProyectoP3" width="300px" alt="ProyectoP3" />
                 <br/>
                 <b>ProyectoP3</b>
               </a>
             </td>
-            <td align="center" style="padding: 10px;">
+            <td align="left" style="padding: 10px;">
               <a href="https://github.com/DaniellaPR/Python-programas" target="_blank">
                 <img src="https://opengraph.githubassets.com/1/DaniellaPR/Python-programas" width="300px" alt="Python-programas" />
                 <br/>
