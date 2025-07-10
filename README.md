@@ -1,15 +1,19 @@
 ## HOLA :D
-
 <table>
   <tr>
-    <td width="50%">
+    <td>
       <img src="https://i.gifer.com/XOsX.gif" width="200"/>
     </td>
     <td>
-      <h3>Titulo <em>Nombre</em></h3>
-      <p>
-        UWU.
-      </p>
+
+<img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/profile-summary-card-output/ayu-mirage/0-profile-details.svg"/>
+
+<p>
+<b style="color:#E090A4">💖 UWU.</b>  
+Bienvenida seas a mi rincón de bits y estrellas.  
+Aquí danzan los sueños con código, y el café nunca falta ☕🌌.
+</p>
+
     </td>
   </tr>
 </table>
