@@ -1,22 +1,19 @@
 ## HOLA :D
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="30%">
       <img src="https://i.gifer.com/XOsX.gif" width="200"/>
     </td>
     <td>
-
-<img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/profile-summary-card-output/ayu-mirage/0-profile-details.svg"/>
-
-<p>
-<b style="color:#E090A4">💖 UWU.</b>  
-Bienvenida seas a mi rincón de bits y estrellas.  
-Aquí danzan los sueños con código, y el café nunca falta ☕🌌.
-</p>
-
+      <h3>🌸 <em>Bienvenida a mi perfil</em></h3>
+      <p>
+        Haburguesas siempre fiel  
+        si a la grasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ☕✨. 
+      </p>
     </td>
   </tr>
 </table>
+
 
 <h2 align="left">🌌 Subtitulo</h2>
 <p align="left">
