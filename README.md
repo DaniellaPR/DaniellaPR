@@ -1,14 +1,12 @@
-## HOLA :D
 <table width="100%">
   <tr>
     <td width="30%">
       <img src="https://i.gifer.com/XOsX.gif" width="200"/>
     </td>
     <td>
-      <h3>🌸 <em>Bienvenida a mi perfil</em></h3>
+      <h3>🌸 <em>Daniela Pozo</em></h3>
       <p>
-        Haburguesas siempre fiel  
-        si a la grasaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ☕✨. 
+        Si ☕✨. 
       </p>
     </td>
   </tr>
