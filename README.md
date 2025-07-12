@@ -71,35 +71,7 @@
     </td>
   </tr>
 </table>
-
-<table width="100%">
-  <!-- Fila con repositorios -->
-  <tr>
-    <td colspan="2" style="padding-top: 30px;">
-      <div align="left">
-        <h2>🔗 Proyectos destacados</h2>
-        <table>
-          <tr>
-            <td align="left" style="padding: 10px;">
-              <a href="https://github.com/DaniellaPR/ProyectoP3" target="_blank">
-                <img src="https://opengraph.githubassets.com/1/DaniellaPR/ProyectoP3" width="300px" alt="ProyectoP3" />
-                <br/>
-                <b>ProyectoP3</b>
-              </a>
-            </td>
-            <td align="left" style="padding: 10px;">
-              <a href="https://github.com/DaniellaPR/Python-programas" target="_blank">
-                <img src="https://opengraph.githubassets.com/1/DaniellaPR/Python-programas" width="300px" alt="Python-programas" />
-                <br/>
-                <b>Python-programas</b>
-              </a>
-            </td>
-          </tr>
-        </table>
-      </div>
-    </td>
-  </tr>
-</table>
+ 
 
 ## 🗺️ Objetivos
 
