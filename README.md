@@ -16,13 +16,7 @@
 
 
 <h2 align="left">🌌 Subtitulo</h2>
-<p align="left">
-  <em>
-    Descripción detallada.
-  </em>
-</p>
 
-### Etiquetas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -117,7 +111,3 @@
 - [ ] Hacer una web personal con mi portafolio 🖥️
 - [ ] Dominar control de versiones 🧙‍♀️
  
-
-### 🔮 Progreso actual:
-
-![Progreso](https://img.shields.io/badge/Progreso-50%25-ffb6c1?style=for-the-badge&labelColor=0d1117&color=80deea)
