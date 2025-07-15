@@ -1,19 +1,6 @@
-<table width="100%">
-  <tr>
-    <td width="30%">
-      <img src="https://i.gifer.com/XOsX.gif" width="200"/>
-    </td>
-    <td>
-      <h3>🌸 <em>Daniela Pozo</em></h3>
-      <p>
-        Si ☕✨. 
-      </p>
-    </td>
-  </tr>
-</table>
 
 
-<h2 align="left">🌌 Subtitulo</h2>
+<h2 align="left">🌸✨ Daniela Pozo</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -22,8 +9,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -34,43 +19,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)
-
-![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" style="padding-right: 20px;">
-      <h2 align="left">📊 Mis Estadísticas</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=DaniellaPR&show_icons=true&theme=ayu-mirage&title_color=ffb6c1&icon_color=fdd835&text_color=80deea&bg_color=0d1117" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td width="50%" valign="top" style="padding-left: 20px;">
-      <h2 align="left">🏆 Lenguaje más usado</h2>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaPR&layout=compact&theme=ayu-mirage&title_color=ffb6c1&text_color=80deea&bg_color=0d1117" alt="Top Languages" width="100%"/>
-    </td>
-  </tr>
-</table>
- 
 
-## 🗺️ Objetivos
 
-- [x] Crear mi README con estilo propio ✨
-- [x] Añadir gifs 🎭
-- [ ] Subir mi primer proyecto completo 🚀
-- [ ] Aprender sobre APIs y hacer mi primer consumo 🔌
-- [ ] Contribuir a un proyecto open-source 🌍
-- [ ] Hacer una web personal con mi portafolio 🖥️
-- [ ] Dominar control de versiones 🧙‍♀️
- 
+
