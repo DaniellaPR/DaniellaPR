@@ -1,4 +1,4 @@
-<h1 align="center">🌸✨ Daniela Pozo ✨🌸</h1>
+<h2 align="center">🌸✨ Daniela Pozo ✨🌸</h2>
 
 ### Sobre mí:
 <p align="left">
