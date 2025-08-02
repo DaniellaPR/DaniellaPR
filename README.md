@@ -14,14 +14,10 @@
 <img src="./lenguajes.png" alt="Lenguajes" width="200"/>
 </p>
 
----
-
 ### 🧰 Herramientas
 <p align="left">
 <img src="./herramientas.png" alt="Herramientas" width="400"/>
 </p>
-
----
 
 ### 🎨 Diseño
 <p align="left">
