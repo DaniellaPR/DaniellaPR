@@ -23,7 +23,7 @@ Crear software es pintar con lógica en un lienzo imposible.
 
 ### 🎨 Creatividad y Diseño
 <p align="left">
-![Diseño](./diseno.png)
+<img src="./diseno.png" alt="Diseño" width="600"/>
 </p>
 
 ---
