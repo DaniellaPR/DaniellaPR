@@ -5,8 +5,8 @@
 <ul>
   <li>Carrera: Ingeniería en Sistemas de Información</li>
   <li>Hobbie: Dar vida a lo invisible</li>
-  <li>Especialidad: Pintar con lógica en un lienzo imposible.</li>
-  <li>Con ganas de aprender.</li>
+  <li>Especialidad: Pintar con lógica, a veces.</li>
+  <li>Comida favorita: Hamburguesas.</li>
 </ul>
 
 
