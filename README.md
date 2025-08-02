@@ -9,17 +9,17 @@
 </ul>
 
 
-### 💻 Lenguajes de Programación
+### ​🫧​​ Lenguajes de Programación
 <p align="left">
 <img src="./lenguajes.png" alt="Lenguajes" width="200"/>
 </p>
 
-### 🧰 Herramientas
+### 👑 Herramientas
 <p align="left">
 <img src="./herramientas.png" alt="Herramientas" width="400"/>
 </p>
 
-### 🎨 Diseño
+### 💷​ Diseño
 <p align="left">
 <img src="./diseno.png" alt="Diseño" width="55"/>
 </p>
