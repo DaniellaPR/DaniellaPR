@@ -11,26 +11,40 @@
 
 ### 💻 Lenguajes de Programación
 <p align="left">
-<img src="./lenguajes.png" alt="Lenguajes" width="500"/>
+<img src="./lenguajes.png" alt="Lenguajes" width="400"/>
 </p>
 
 ---
 
 ### 🧰 Herramientas
 <p align="left">
-<img src="./herramientas.png" alt="Herramientas" width="900"/>
+<img src="./herramientas.png" alt="Herramientas" width="600"/>
 </p>
 
 ---
 
 ### 🎨 Diseño
 <p align="left">
-<img src="./diseno.png" alt="Diseño" width="800"/>
+<img src="./diseno.png" alt="Diseño" width="600"/>
 </p>
 
 ---
 
-<p align="center">
-  🌙 Si
+<table>
+  <tr>
+    <th align="left" width="58%">🛠️ Herramientas</th>
+    <th align="left" width="42%">🎨 Diseño</th>
+  </tr>
+  <tr>
+    <td>
+      <p align="left">
+<img src="./herramientas.png" alt="Herramientas" width="600"/>
 </p>
-
+    </td>
+    <td>
+      <p align="left">
+<img src="./diseno.png" alt="Diseño" width="1000"/>
+</p>
+    </td>
+  </tr>
+</table>
