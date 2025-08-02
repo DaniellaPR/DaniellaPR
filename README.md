@@ -12,21 +12,21 @@
 
 ### 💻 Lenguajes de Programación
 <p align="left">
-<img src="./lenguajes.png" alt="Lenguajes" width="340"/>
+<img src="./lenguajes.png" alt="Lenguajes" width="200"/>
 </p>
 
 ---
 
 ### 🧰 Herramientas
 <p align="left">
-<img src="./herramientas.png" alt="Herramientas" width="600"/>
+<img src="./herramientas.png" alt="Herramientas" width="400"/>
 </p>
 
 ---
 
 ### 🎨 Diseño
 <p align="left">
-<img src="./diseno.png" alt="Diseño" width="100"/>
+<img src="./diseno.png" alt="Diseño" width="55"/>
 </p>
 
 ---
