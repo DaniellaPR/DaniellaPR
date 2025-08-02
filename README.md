@@ -11,7 +11,7 @@
 
 ### 💻 Lenguajes de Programación
 <p align="left">
-<img src="./lenguajes.png" alt="Lenguajes" width="400"/>
+<img src="./lenguajes.png" alt="Lenguajes" width="340"/>
 </p>
 
 ---
