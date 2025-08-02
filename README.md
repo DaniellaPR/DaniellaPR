@@ -27,6 +27,3 @@
 <p align="left">
 <img src="./diseno.png" alt="Diseño" width="55"/>
 </p>
-
----
-
