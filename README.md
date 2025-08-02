@@ -9,21 +9,21 @@ Crear software es pintar con lógica en un lienzo imposible.
 
 ### 💻 Lenguajes de Programación
 <p align="left">
-<img src="./assets/lenguajes.png" alt="Descripción bonita" width="300"/>
+![Lenguajes](./lenguajes.png)
 </p>
 
 ---
 
 ### 🧰 Herramientas
 <p align="left">
-<img src="./assets/herramientas.png" alt="Descripción bonita" width="300"/>
+![Herramientas](./herramientas.png)
 </p>
 
 ---
 
 ### 🎨 Creatividad y Diseño
 <p align="left">
-<img src="./assets/diseno.png" alt="Descripción bonita" width="300"/>
+![Diseño](./diseno.png)
 </p>
 
 ---
