@@ -9,14 +9,14 @@ Crear software es pintar con lógica en un lienzo imposible.
 
 ### 💻 Lenguajes de Programación
 <p align="left">
-![Lenguajes](./lenguajes.png)
+<img src="./lenguajes.png" alt="Lenguajes" width="600"/>
 </p>
 
 ---
 
 ### 🧰 Herramientas
 <p align="left">
-![Herramientas](./herramientas.png)
+<img src="./herramientas.png" alt="Herramientas" width="600"/>
 </p>
 
 ---
