@@ -1,5 +1,6 @@
 <h1 align="center">🌸✨ Daniela Pozo ✨🌸</h1>
 
+### Sobre mí:
 <p align="left">
 <ul>
   <li>Carrera: Ingeniería en Sistemas de Información</li>
@@ -25,26 +26,8 @@
 
 ### 🎨 Diseño
 <p align="left">
-<img src="./diseno.png" alt="Diseño" width="600"/>
+<img src="./diseno.png" alt="Diseño" width="100"/>
 </p>
 
 ---
 
-<table>
-  <tr>
-    <th align="left" width="58%">🛠️ Herramientas</th>
-    <th align="left" width="42%">🎨 Diseño</th>
-  </tr>
-  <tr>
-    <td>
-      <p align="left">
-<img src="./herramientas.png" alt="Herramientas" width="600"/>
-</p>
-    </td>
-    <td>
-      <p align="left">
-<img src="./diseno.png" alt="Diseño" width="1000"/>
-</p>
-    </td>
-  </tr>
-</table>
