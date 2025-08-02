@@ -6,7 +6,7 @@
   <li>Carrera: Ingeniería en Sistemas de Información</li>
   <li>Hobbie: Dar vida a lo invisible</li>
   <li>Especialidad: Pintar con lógica en un lienzo imposible.</li>
-  <li>Con <strong>negrita</strong> y <em>cursiva</em></li>
+  <li>Con ganas de aprender.</li>
 </ul>
 
 
