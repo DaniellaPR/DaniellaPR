@@ -24,4 +24,6 @@
 <img src="./diseno.png" alt="Diseño" width="55"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaPR&layout=compact&theme=radical" />
+</p>
