@@ -23,3 +23,5 @@
 <p align="left">
 <img src="./diseno.png" alt="Diseño" width="55"/>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
