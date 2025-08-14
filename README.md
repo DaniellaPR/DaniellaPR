@@ -1,4 +1,4 @@
-<h2 align="center">🌸✨ Daniela Pozo ✨🌸</h2>
+<h2 align="center">🌸✨ Hola, soy Daniela Pozo ✨🌸</h2>
 
 ### Sobre mí:
 <p align="left">
@@ -11,17 +11,17 @@
 
 ### ​🫧​​ Lenguajes de Programación
 <p align="left">
-<img src="./lenguajes.png" alt="Lenguajes" width="200"/>
+<img src="./lenguajes.png" alt="Lenguajes" width="300"/>
 </p>
 
 ### 👑 Herramientas
 <p align="left">
-<img src="./herramientas.png" alt="Herramientas" width="400"/>
+<img src="./herramientas.png" alt="Herramientas" width="500"/>
 </p>
 
 ### 💷​ Diseño
 <p align="left">
-<img src="./diseno.png" alt="Diseño" width="55"/>
+<img src="./diseno.png" alt="Diseño" width="75"/>
 </p>
 
 <p align="center">
