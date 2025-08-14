@@ -3,9 +3,9 @@
 ### Sobre mí:
 <p align="left">
 <ul>
-  <li> 🎮Carrera: Ingeniería en Sistemas de Información</li>
-  <li> ✨Hobbie: Dar vida a lo invisible</li>
-  <li> 🌈Especialidad: Pintar con lógica, a veces.</li>
+  <li> 🎮 Carrera: Ingeniería en Sistemas de Información</li>
+  <li> ✨ Hobbie: Dar vida a lo invisible</li>
+  <li> 🌈 Especialidad: Pintar con lógica, a veces.</li>
 </ul>
 
 
