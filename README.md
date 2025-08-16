@@ -90,7 +90,7 @@
     <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/NumPy.png" height=30 alt="NumPy" title="NumPy">
     <img src="https://github.com/shaurya-src/shaurya-src/blob/main/Assets/pandas_logo.png" height=30 alt="Pandas" title="Pandas">
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" />
-    <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="aseprite logo" width="30">
+    <img width="30px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aseprite.png" alt="Aseprite" title="Aseprite"/>
   </kbd>
 
   <!-- OS & Virtualization -->
