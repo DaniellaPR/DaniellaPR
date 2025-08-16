@@ -1,4 +1,4 @@
-<h2 align="center"><img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>🌸✨ Hola, soy Daniela Pozo ✨🌸<br></h2>
+<h1 align="center"><img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br> Hola, soy Daniela Pozo <br></h1>
 
 <p align="center">
   <a href="https://fotografias.flooxernow.com/clipping/cmsimages02/2022/11/29/3AD2798B-E4B0-4FEF-BA42-1E5903A94FEB/rick-astley-never-gonna-give-you_103.jpg?crop=1200,900,x0,y0&width=1200&height=900&optimize=low&format=webply">
