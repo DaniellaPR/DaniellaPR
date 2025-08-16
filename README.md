@@ -101,7 +101,10 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" title="Ubuntu" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" title="Debian" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="Red Hat" title="Red Hat" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" alt="VMware" title="VMware" />
+    <img src="https://www.svgrepo.com/show/473827/vmware.svg" width="30" height="30" alt="VMware" title="VMware" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/VirtualBox_Logo_2024.png" width="30" height="30" alt="VirtualBox" title="VirtualBox" />
+
+
   </kbd>
 
   <!-- Cloud & Networking -->
