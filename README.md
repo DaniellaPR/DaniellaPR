@@ -37,7 +37,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      🎮 Carrera: Ingeniería en Sistemas de Información |
+      🎮 Carrera: Ingeniería en Sistemas |
       ✨ Hobbie: Dar vida a lo invisible |
       🌈 Especialidad: Pintar con lógica, a veces.
     </td>
