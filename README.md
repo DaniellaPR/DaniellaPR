@@ -24,6 +24,3 @@
 <img src="./diseno.png" alt="Diseño" width="75"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaPR&layout=compact&theme=radical" />
-</p>
