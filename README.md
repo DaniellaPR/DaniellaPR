@@ -2,21 +2,31 @@
 
 <p align="center">
   <a href="https://fotografias.flooxernow.com/clipping/cmsimages02/2022/11/29/3AD2798B-E4B0-4FEF-BA42-1E5903A94FEB/rick-astley-never-gonna-give-you_103.jpg?crop=1200,900,x0,y0&width=1200&height=900&optimize=low&format=webply">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="40px" alt="Discord"/>
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/koala_1f428.png" width="40px" alt="Discord"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DaniellaPR/">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40px" alt="GitHub"/>
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/octopus_1f419.png" width="40px" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://pointerpointer.com/">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40px" alt="PointerPoint"/>
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/cat-face_1f431.png" width="40px" alt="PointerPoint"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://puginarug.com/">
     <img src="https://em-content.zobj.net/source/microsoft-teams/337/dog-face_1f436.png" width="40px" alt="Pug"/>
   </a>
+  <a href="https://puginarug.com/">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/dolphin_1f42c.png" width="40px" alt="Pug"/>
+  </a>
+  <a href="https://puginarug.com/">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/monkey-face_1f435.png" width="40px" alt="Pug"/>
+  </a>
+  <a href="https://puginarug.com/">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/tiger-face_1f42f.png" width="40px" alt="Pug"/>
+  </a>
 </p>
+
 
 ----
 
@@ -24,11 +34,9 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <ul>
-        <li>🎮 Carrera: Ingeniería en Sistemas de Información</li>
-        <li>✨ Hobbie: Dar vida a lo invisible</li>
-        <li>🌈 Especialidad: Pintar con lógica, a veces.</li>
-      </ul>
+      🎮 Carrera: Ingeniería en Sistemas de Información |
+      ✨ Hobbie: Dar vida a lo invisible |
+      🌈 Especialidad: Pintar con lógica, a veces.
     </td>
     <td>
       <img alt="dsmark" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif" />
@@ -136,7 +144,7 @@
 Me gustan los gatos
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaPR&layout=compact&hide=css&theme=radical" alt="Intellij" height="250">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaPR&layout=compact&hide=css&theme=radical" alt="Intellij" height="290">
 </div> 
 <p align="left">
 <a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">
