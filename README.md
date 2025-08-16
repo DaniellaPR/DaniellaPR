@@ -16,12 +16,15 @@
   <a href="https://puginarug.com/">
     <img src="https://em-content.zobj.net/source/microsoft-teams/337/dog-face_1f436.png" width="40px" alt="Pug"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://puginarug.com/">
     <img src="https://em-content.zobj.net/source/microsoft-teams/337/dolphin_1f42c.png" width="40px" alt="Pug"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://puginarug.com/">
     <img src="https://em-content.zobj.net/source/microsoft-teams/337/monkey-face_1f435.png" width="40px" alt="Pug"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://puginarug.com/">
     <img src="https://em-content.zobj.net/source/microsoft-teams/337/tiger-face_1f42f.png" width="40px" alt="Pug"/>
   </a>
