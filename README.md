@@ -27,10 +27,13 @@
 <img src="./diseno.png" alt="Diseño" width="75"/>
 </p>
 
+----
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaPR&layout=compact&theme=radical" />
 </p>
 
+----
 
 <p style="display: inline-block;" align="center">
   <kbd>
@@ -121,12 +124,11 @@
   </kbd>
 </p>
 
+-----
 
-> **Serpiente hambreada porque no tengo nada subido el año anterior.**
-
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 <img alt="dsmark" align="right"  height="30%" width="30%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
-<h3>Gato</h3>
+> **Gato**
+
 Me gustan los gatos
