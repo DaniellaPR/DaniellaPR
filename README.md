@@ -45,7 +45,7 @@
 
   <!-- Programming Languages -->
   <kbd>
-    <kbd>Programming Languages</kbd>
+    <kbd>Languages</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" title="C#" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
