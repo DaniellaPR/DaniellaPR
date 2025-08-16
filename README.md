@@ -39,7 +39,7 @@
 
 ----
 
-### ​🫧​​ Lenguajes de Programación
+### ​🫧​​ Lenguajes y Herramientas
 
 <p style="display: inline-block;" align="center">
 
