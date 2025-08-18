@@ -1,35 +1,5 @@
 <h1 align="center"><img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br> Hola, soy Daniela Pozo <br></h1>
 
-<p align="center">
-  <a href="https://fotografias.flooxernow.com/clipping/cmsimages02/2022/11/29/3AD2798B-E4B0-4FEF-BA42-1E5903A94FEB/rick-astley-never-gonna-give-you_103.jpg?crop=1200,900,x0,y0&width=1200&height=900&optimize=low&format=webply">
-    <img src="https://em-content.zobj.net/source/microsoft-teams/337/koala_1f428.png" width="40px" alt="Discord"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DaniellaPR/">
-    <img src="https://em-content.zobj.net/source/microsoft-teams/337/octopus_1f419.png" width="40px" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://pointerpointer.com/">
-    <img src="https://em-content.zobj.net/source/microsoft-teams/337/cat-face_1f431.png" width="40px" alt="PointerPoint"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://puginarug.com/">
-    <img src="https://em-content.zobj.net/source/microsoft-teams/337/dog-face_1f436.png" width="40px" alt="Pug"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://puginarug.com/">
-    <img src="https://em-content.zobj.net/source/microsoft-teams/337/dolphin_1f42c.png" width="40px" alt="Pug"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://puginarug.com/">
-    <img src="https://em-content.zobj.net/source/microsoft-teams/337/monkey-face_1f435.png" width="40px" alt="Pug"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://puginarug.com/">
-    <img src="https://em-content.zobj.net/source/microsoft-teams/337/tiger-face_1f42f.png" width="40px" alt="Pug"/>
-  </a>
-</p>
-
 
 ----
 
@@ -154,6 +124,36 @@ Me gustan los gatos
 </a>
 </td><td valign="top" width="33%">
 <p align="right">
+
+<p align="right">
+  <a href="https://fotografias.flooxernow.com/clipping/cmsimages02/2022/11/29/3AD2798B-E4B0-4FEF-BA42-1E5903A94FEB/rick-astley-never-gonna-give-you_103.jpg?crop=1200,900,x0,y0&width=1200&height=900&optimize=low&format=webply">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/koala_1f428.png" width="40px" alt="Discord"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DaniellaPR/">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/octopus_1f419.png" width="40px" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://pointerpointer.com/">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/cat-face_1f431.png" width="40px" alt="PointerPoint"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://puginarug.com/">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/dog-face_1f436.png" width="40px" alt="Pug"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://memory.toys/classic/medium/">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/dolphin_1f42c.png" width="40px" alt="Pug"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="http://www.staggeringbeauty.com/">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/monkey-face_1f435.png" width="40px" alt="Pug"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://longdogechallenge.com/">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/tiger-face_1f42f.png" width="40px" alt="Pug"/>
+  </a>
+</p>
 
 
 
