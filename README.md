@@ -134,7 +134,7 @@ Me gustan los gatos
     <img src="https://em-content.zobj.net/source/microsoft-teams/337/octopus_1f419.png" width="40px" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://pointerpointer.com/">
+  <a href="https://checkboxrace.com/">
     <img src="https://em-content.zobj.net/source/microsoft-teams/337/cat-face_1f431.png" width="40px" alt="PointerPoint"/>
   </a>
   &nbsp;&nbsp;&nbsp;
