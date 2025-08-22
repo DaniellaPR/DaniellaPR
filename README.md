@@ -1,9 +1,9 @@
-<h1 align="center"><img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br> Hola, soy Daniela Pozo <br></h1>
+<h1 align="center"><img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br> Daniela Pozo <br></h1>
 
 
 ----
 
-### Sobre mí:
+### Honorifícame:
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
