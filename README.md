@@ -52,9 +52,11 @@
     <kbd>Front-end</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" />
-    <img width="30px" src="https://skillicons.dev/icons?i=pug&perline=14" alt="Pug" title="Pug"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" title="CSS3" />
+    <img width="30px" src="https://skillicons.dev/icons?i=pug&perline=14" alt="Pug" title="Pug"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" />
+    <img width="30px" src="https://logo.svgcdn.com/l/testing-library.svg" alt="Testing Library" title="Testing Library" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" title="Django" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" title="Electron" />
   </kbd>
 
@@ -93,7 +95,6 @@
     <br><br>
     <img src="https://github.com/linitio/static-content/blob/main/img/logo/aws-logo.png?raw=true" width="30" height="30" alt="AWS" title="Amazon Web Services" />
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30" height="30" alt="Google Cloud" title="Google Cloud Platform" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="30" height="30" alt="Cisco" title="Cisco" />
   </kbd>
 
   <!-- Game Development -->
