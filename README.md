@@ -116,11 +116,8 @@
 
 Me gustan los gatos
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellaPR&layout=compact&theme=radical" alt="Intellij" height="320">
-</div> 
 <p align="left">
-<a href="https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/">
+<a href="https://drive.google.com/file/d/1i3xbZpdzkD3clVCOYbX4vOeIopda0h5d/view?usp=sharing">
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
 </a>
 </td><td valign="top" width="33%">
