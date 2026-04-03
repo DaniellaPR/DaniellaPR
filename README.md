@@ -128,7 +128,7 @@ Me gustan los gatos
     <img src="https://em-content.zobj.net/source/microsoft-teams/337/koala_1f428.png" width="40px" alt="Discord"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DaniellaPR/](https://daniellapr.github.io/Wonder-Catch/">
+  <a href="https://daniellapr.github.io/Wonder-Catch/">
     <img src="https://em-content.zobj.net/source/microsoft-teams/337/octopus_1f419.png" width="40px" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
