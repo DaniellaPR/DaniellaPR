@@ -116,14 +116,21 @@
 
 Me gustan los gatos
 
+<section>
+
+  
+</section>
+
 <p align="left">
 <a href="https://drive.google.com/file/d/1i3xbZpdzkD3clVCOYbX4vOeIopda0h5d/view?usp=sharing">
 <img border="0" alt="Hrugved Kolhe" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
 </a>
-</td><td valign="top" width="33%">
-<p align="right">
+<td valign="top" width="33%"></td>
+</p>
 
 <p align="right">
+  <p>Presiona uno ↓</p>
+  
   <a href="https://fotografias.flooxernow.com/clipping/cmsimages02/2022/11/29/3AD2798B-E4B0-4FEF-BA42-1E5903A94FEB/rick-astley-never-gonna-give-you_103.jpg?crop=1200,900,x0,y0&width=1200&height=900&optimize=low&format=webply">
     <img src="https://em-content.zobj.net/source/microsoft-teams/337/koala_1f428.png" width="40px" alt="Discord"/>
   </a>
